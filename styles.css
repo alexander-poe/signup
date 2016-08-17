@@ -1,0 +1,58 @@
+body {
+	background: #3F94E7;
+}
+.logo-cont {
+	margin: 50px auto 10px;
+	width: 100%;
+	text-align: center;
+}
+
+.logo {
+	height:35px;
+}
+
+.form {
+	width:400px;
+	background: #fff;
+	padding: 10px 40px;
+	margin:0px auto;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.email, .password, .btn {
+	width: 320px;
+	border: 2px solid #E7E7E7;
+	padding:15px;
+}
+
+.label{
+	text-align:left;
+	margin: 5px 20px;
+	font-size: 17px;
+}
+.btn{
+	width: 352px;
+	background:#65C470;
+	color:#fff;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+a.fpass {
+	text-decoration: none;
+	color:#ADB7BD;
+	text-decoration: underline dotted #ADB7Bd;
+}
+.acc {
+	color: #fff;
+	text-align: center;
+	margin:20px;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.acc a{
+	text-decoration:underline;
+	color:#fff;
+}
